@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Data directories
+data/raw/
+data/processed/
+
+# Model artifacts
+models/
+
+# Submissions directory
+submissions/
+
+# Python cache
+__pycache__/
+
+# Pytest cache
+.pytest_cache/
+
+# Secrets and sensitive files
+secrets/
