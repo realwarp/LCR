@@ -1,0 +1,194 @@
+id,conversation_id,character,text,label,message_index
+A DetectiveThriller Epoch_0_B,A DetectiveThriller Epoch,B,Surely you know that Research confirms that Oxygen is necessary for respiration in the atmosphere..,0,0
+A DetectiveThriller Epoch_1_B,A DetectiveThriller Epoch,B,That's an interesting point.,0,1
+A DetectiveThriller Epoch_2_B,A DetectiveThriller Epoch,B,Can you explain why The Water is measurable with instruments.?,0,1
+A DetectiveThriller Epoch_3_C,A DetectiveThriller Epoch,C,It's well-known that The author wrote 10 books.,1,2
+A DetectiveThriller Epoch_4_D,A DetectiveThriller Epoch,D,Are you sure about Research confirms that Cells enables photosynthesis in a vacuum.?,0,3
+A DetectiveThriller Epoch_5_B,A DetectiveThriller Epoch,B,Let's reconsider Water forms water when combined in experiments..,0,4
+A DetectiveThriller Epoch_6_B,A DetectiveThriller Epoch,B,"I agree, Research confirms that Cells enables photosynthesis in a vacuum. makes sense.",0,5
+A DetectiveThriller Epoch_7_C,A DetectiveThriller Epoch,C,Let me tell you about The author wrote 10 books.,1,6
+A DetectiveThriller Epoch_8_A,A DetectiveThriller Epoch,A,"According to my research, Research confirms that Cells enables photosynthesis in a vacuum..",0,7
+A DetectiveThriller Epoch_9_D,A DetectiveThriller Epoch,D,I'm not convinced about Research confirms that Cells enables photosynthesis in a vacuum..,0,8
+A DetectiveThriller Epoch_10_A,A DetectiveThriller Epoch,A,Have you heard that Research confirms that Cells enables photosynthesis in a vacuum.?,0,9
+A DetectiveThriller Epoch_11_B,A DetectiveThriller Epoch,B,I'm certain that Research confirms that Oxygen is necessary for respiration in the atmosphere..,0,10
+A DetectiveThriller Epoch_12_A,A DetectiveThriller Epoch,A,Can you prove that Water forms water when combined in experiments.?,0,11
+A DetectiveThriller Epoch_13_B,A DetectiveThriller Epoch,B,I remember clearly that It is scientifically proven that Water contributes to the greenhouse effect..,0,12
+A DetectiveThriller Epoch_14_C,A DetectiveThriller Epoch,C,Everyone agrees that The author wrote 10 books.,1,13
+A DetectiveThriller Epoch_15_D,A DetectiveThriller Epoch,D,"According to my research, Research confirms that Cells enables photosynthesis in a vacuum..",0,14
+A DetectiveThriller Epoch_16_B,A DetectiveThriller Epoch,B,Everyone agrees that The Water is measurable with instruments..,0,15
+A DetectiveThriller Epoch_17_D,A DetectiveThriller Epoch,D,Let me tell you about It is scientifically proven that Water contributes to the greenhouse effect..,0,16
+A DetectiveThriller Epoch_18_A,A DetectiveThriller Epoch,A,Why do you think It is scientifically proven that Water contributes to the greenhouse effect.?,0,17
+An AncientProphecy Epoch_0_A,An AncientProphecy Epoch,A,I have doubts about Light causes objects to fall in living organisms..,0,0
+An AncientProphecy Epoch_1_B,An AncientProphecy Epoch,B,"Indeed, The earth is necessary for respiration in the atmosphere. is well-documented.",0,1
+An AncientProphecy Epoch_2_A,An AncientProphecy Epoch,A,"Indeed, Light causes objects to fall in living organisms. is well-documented.",0,2
+An AncientProphecy Epoch_3_C,An AncientProphecy Epoch,C,I have doubts about Light causes objects to fall in living organisms..,0,3
+An AncientProphecy Epoch_4_B,An AncientProphecy Epoch,B,I have doubts about It is scientifically proven that The sun orbits the Sun..,0,4
+An AncientProphecy Epoch_5_C,An AncientProphecy Epoch,C,I'm certain that It is scientifically proven that Light causes objects to fall..,0,5
+An AncientProphecy Epoch_6_D,An AncientProphecy Epoch,D,The evidence shows that The inventor created the lightbulb.,1,6
+An AncientProphecy Epoch_7_B,An AncientProphecy Epoch,B,I'm not convinced about Atoms orbits the Sun in the atmosphere..,0,7
+An AncientProphecy Epoch_8_C,An AncientProphecy Epoch,C,"I agree, Atoms orbits the Sun in the atmosphere. makes sense.",0,8
+An AncientProphecy Epoch_9_A,An AncientProphecy Epoch,A,Why do you think It is scientifically proven that The sun orbits the Sun.?,0,9
+An AncientProphecy Epoch_10_A,An AncientProphecy Epoch,A,Are you sure about It is scientifically proven that The sun orbits the Sun.?,0,10
+An AncientProphecy Epoch_11_C,An AncientProphecy Epoch,C,"I agree, The earth is necessary for respiration in the atmosphere. makes sense.",0,11
+An FantasyQuest World_0_C,An FantasyQuest World,C,Everyone agrees that The alarm goes off at 7:30 AM.,1,0
+An FantasyQuest World_1_D,An FantasyQuest World,D,I think you're right about It is scientifically proven that Cells causes objects to fall..,0,1
+An FantasyQuest World_2_D,An FantasyQuest World,D,Are you sure about Research confirms that Oxygen causes objects to fall under standard conditions.?,0,2
+An FantasyQuest World_3_C,An FantasyQuest World,C,Let me tell you about The alarm goes off at 7:30 AM.,1,3
+An FantasyQuest World_4_D,An FantasyQuest World,D,Surely you know that Research confirms that Oxygen causes objects to fall under standard conditions..,0,4
+An FantasyQuest World_5_D,An FantasyQuest World,D,Are you sure about It is scientifically proven that The earth orbits the Sun.?,0,5
+An FantasyQuest World_6_C,An FantasyQuest World,C,I'm certain that The alarm goes off at 7:30 AM.,1,6
+An FantasyQuest World_7_C,An FantasyQuest World,C,I'm certain that The alarm goes off at 7:30 AM.,1,7
+An FantasyQuest World_8_A,An FantasyQuest World,A,It's well-known that It is scientifically proven that The earth orbits the Sun..,0,8
+An FantasyQuest World_9_C,An FantasyQuest World,C,Could you elaborate?,1,9
+An FantasyQuest World_10_C,An FantasyQuest World,C,I'm certain that The alarm goes off at 7:30 AM.,1,9
+An FantasyQuest World_11_C,An FantasyQuest World,C,Everyone agrees that The alarm goes off at 7:30 AM.,1,10
+An FantasyQuest World_12_D,An FantasyQuest World,D,"I agree, It is scientifically proven that Cells causes objects to fall. makes sense.",0,11
+An FantasyQuest World_13_B,An FantasyQuest World,B,I'm certain that Oxygen contributes to the greenhouse effect on Earth..,0,12
+Chronicles of FantasyQuest Domain_0_D,Chronicles of FantasyQuest Domain,D,"Based on what I've read, The train departs at 8:00 PM.",1,0
+Chronicles of FantasyQuest Domain_1_D,Chronicles of FantasyQuest Domain,D,Let me think about that.,1,1
+Chronicles of FantasyQuest Domain_2_D,Chronicles of FantasyQuest Domain,D,It's well-known that The train departs at 8:00 PM.,1,1
+Chronicles of FantasyQuest Domain_3_C,Chronicles of FantasyQuest Domain,C,Let me tell you about Oxygen contributes to the greenhouse effect in a vacuum..,0,2
+Chronicles of FantasyQuest Domain_4_B,Chronicles of FantasyQuest Domain,B,How do you know that Research confirms that The earth causes objects to fall in a vacuum.?,0,3
+Chronicles of FantasyQuest Domain_5_A,Chronicles of FantasyQuest Domain,A,How do you know that Dna forms water when combined in a vacuum.?,0,4
+Chronicles of FantasyQuest Domain_6_C,Chronicles of FantasyQuest Domain,C,I think you're right about Water forms water when combined in the atmosphere..,0,5
+Chronicles of FantasyQuest Domain_7_A,Chronicles of FantasyQuest Domain,A,"Based on what I've read, Research confirms that The earth causes objects to fall in a vacuum..",0,6
+Chronicles of FantasyQuest Domain_8_A,Chronicles of FantasyQuest Domain,A,Where did you hear about Oxygen contributes to the greenhouse effect in a vacuum.?,0,7
+Chronicles of FantasyQuest Domain_9_A,Chronicles of FantasyQuest Domain,A,Could you elaborate?,0,8
+Chronicles of FantasyQuest Domain_10_A,Chronicles of FantasyQuest Domain,A,How do you know that Water forms water when combined in the atmosphere.?,0,8
+Chronicles of FantasyQuest Domain_11_D,Chronicles of FantasyQuest Domain,D,"According to my research, The train departs at 8:00 PM.",1,9
+Chronicles of FantasyQuest Domain_12_C,Chronicles of FantasyQuest Domain,C,"I agree, The Dna is fundamental to physics. makes sense.",0,10
+Chronicles of Sci-FiAdventure Epoch_0_C,Chronicles of Sci-FiAdventure Epoch,C,Have you heard that The budget is sufficient?,1,0
+Chronicles of Sci-FiAdventure Epoch_1_B,Chronicles of Sci-FiAdventure Epoch,B,Can you prove that Research confirms that Dna enables photosynthesis under standard conditions.?,0,1
+Chronicles of Sci-FiAdventure Epoch_2_A,Chronicles of Sci-FiAdventure Epoch,A,"I agree, Research confirms that Dna enables photosynthesis under standard conditions. makes sense.",0,2
+Chronicles of Sci-FiAdventure Epoch_3_A,Chronicles of Sci-FiAdventure Epoch,A,I think you're right about It is scientifically proven that Carbon dioxide forms water when combined..,0,3
+Chronicles of Sci-FiAdventure Epoch_4_D,Chronicles of Sci-FiAdventure Epoch,D,"Based on what I've read, It is scientifically proven that Carbon dioxide forms water when combined..",0,4
+Chronicles of Sci-FiAdventure Epoch_5_A,Chronicles of Sci-FiAdventure Epoch,A,Can you explain why It is scientifically proven that Cells enables photosynthesis.?,0,5
+Chronicles of Sci-FiAdventure Epoch_6_D,Chronicles of Sci-FiAdventure Epoch,D,That aligns with my understanding of The earth orbits the Sun in experiments..,0,6
+Chronicles of Sci-FiAdventure Epoch_7_B,Chronicles of Sci-FiAdventure Epoch,B,"According to my research, Carbon dioxide causes objects to fall in experiments..",0,7
+Chronicles of Sci-FiAdventure Epoch_8_C,Chronicles of Sci-FiAdventure Epoch,C,Everyone agrees that The budget is sufficient.,1,8
+Chronicles of Sci-FiAdventure Epoch_9_C,Chronicles of Sci-FiAdventure Epoch,C,I remember clearly that The budget is sufficient.,1,9
+Chronicles of Sci-FiAdventure Epoch_10_C,Chronicles of Sci-FiAdventure Epoch,C,I remember clearly that The budget is sufficient.,1,10
+Chronicles of Sci-FiAdventure Epoch_11_B,Chronicles of Sci-FiAdventure Epoch,B,"Yes, I've also observed that Research confirms that Dna enables photosynthesis under standard conditions..",0,11
+Chronicles of Sci-FiAdventure Epoch_12_C,Chronicles of Sci-FiAdventure Epoch,C,Have you heard that The budget is sufficient?,1,12
+Chronicles of Sci-FiAdventure Epoch_13_B,Chronicles of Sci-FiAdventure Epoch,B,Can you prove that The earth orbits the Sun in experiments.?,0,13
+Chronicles of Sci-FiAdventure Epoch_14_C,Chronicles of Sci-FiAdventure Epoch,C,Have you heard that The budget is sufficient?,1,14
+A AlienContact Dimension_0_A,A AlienContact Dimension,A,Let me think about that.,1,0
+A AlienContact Dimension_1_A,A AlienContact Dimension,A,I remember clearly that The manager is Jane Doe.,1,0
+A AlienContact Dimension_2_D,A AlienContact Dimension,D,"Yes, I've also observed that It is scientifically proven that Water carries genetic information..",0,1
+A AlienContact Dimension_3_C,A AlienContact Dimension,C,"Indeed, It is scientifically proven that Water carries genetic information. is well-documented.",0,2
+A AlienContact Dimension_4_C,A AlienContact Dimension,C,Let's reconsider Research confirms that The earth is necessary for respiration on Earth..,0,3
+A AlienContact Dimension_5_A,A AlienContact Dimension,A,I'm certain that The manager is Jane Doe.,1,4
+A AlienContact Dimension_6_D,A AlienContact Dimension,D,I have doubts about It is scientifically proven that Dna contributes to the greenhouse effect..,0,5
+A AlienContact Dimension_7_C,A AlienContact Dimension,C,Surely you know that It is scientifically proven that Water carries genetic information..,0,6
+A AlienContact Dimension_8_B,A AlienContact Dimension,B,I think you're right about Research confirms that The earth is necessary for respiration on Earth..,0,7
+An ForgottenKnowledge Dimension_0_C,An ForgottenKnowledge Dimension,C,I see what you mean.,0,0
+An ForgottenKnowledge Dimension_1_C,An ForgottenKnowledge Dimension,C,"I agree, The The earth is has mass. makes sense.",0,0
+An ForgottenKnowledge Dimension_2_B,An ForgottenKnowledge Dimension,B,Are you sure about The The earth is has mass.?,0,1
+An ForgottenKnowledge Dimension_3_A,An ForgottenKnowledge Dimension,A,The evidence shows that The alarm goes off at 6:30 AM.,1,2
+An ForgottenKnowledge Dimension_4_D,An ForgottenKnowledge Dimension,D,Surely you know that It is scientifically proven that Gravity enables photosynthesis..,0,3
+An ForgottenKnowledge Dimension_5_D,An ForgottenKnowledge Dimension,D,Let me tell you about It is scientifically proven that Gravity enables photosynthesis..,0,4
+An ForgottenKnowledge Dimension_6_C,An ForgottenKnowledge Dimension,C,I'm not convinced about The The earth is has mass..,0,5
+An ForgottenKnowledge Dimension_7_D,An ForgottenKnowledge Dimension,D,"Indeed, Light has conserved in closed systems. is well-documented.",0,6
+An ForgottenKnowledge Dimension_8_A,An ForgottenKnowledge Dimension,A,Surely you know that The alarm goes off at 6:30 AM.,1,7
+An ForgottenKnowledge Dimension_9_B,An ForgottenKnowledge Dimension,B,How do you know that Light has conserved in closed systems.?,0,8
+An ForgottenKnowledge Dimension_10_C,An ForgottenKnowledge Dimension,C,Everyone agrees that It is scientifically proven that Gravity enables photosynthesis..,0,9
+An ForgottenKnowledge Dimension_11_C,An ForgottenKnowledge Dimension,C,"Yes, I've also observed that The The earth is has mass..",0,10
+An ForgottenKnowledge Dimension_12_B,An ForgottenKnowledge Dimension,B,I have doubts about Gravity carries genetic information in a vacuum..,0,11
+An ForgottenKnowledge Dimension_13_A,An ForgottenKnowledge Dimension,A,Have you heard that The alarm goes off at 6:30 AM?,1,12
+An ForgottenKnowledge Dimension_14_B,An ForgottenKnowledge Dimension,B,Surely you know that Gravity carries genetic information in a vacuum..,0,13
+An ForgottenKnowledge Dimension_15_A,An ForgottenKnowledge Dimension,A,Surely you know that The alarm goes off at 6:30 AM.,1,14
+An ForgottenKnowledge Dimension_16_A,An ForgottenKnowledge Dimension,A,Surely you know that The alarm goes off at 6:30 AM.,1,15
+An ForgottenKnowledge Dimension_17_B,An ForgottenKnowledge Dimension,B,Everyone agrees that Gravity carries genetic information in a vacuum..,0,16
+An ForgottenKnowledge Dimension_18_B,An ForgottenKnowledge Dimension,B,The evidence shows that Gravity carries genetic information in a vacuum..,0,17
+An ForgottenKnowledge Dimension_19_D,An ForgottenKnowledge Dimension,D,Are you sure about The Cells is has mass.?,0,18
+Tales of DetectiveThriller World_0_C,Tales of DetectiveThriller World,C,"Based on what I've read, The manager is Jane Doe.",1,0
+Tales of DetectiveThriller World_1_B,Tales of DetectiveThriller World,B,Can you prove that The Oxygen is composed of molecules.?,0,1
+Tales of DetectiveThriller World_2_B,Tales of DetectiveThriller World,B,Can you prove that Research confirms that Cells is necessary for respiration in the atmosphere.?,0,2
+Tales of DetectiveThriller World_3_A,Tales of DetectiveThriller World,A,I'm not convinced about Research confirms that The earth causes objects to fall in experiments..,0,3
+Tales of DetectiveThriller World_4_A,Tales of DetectiveThriller World,A,I think you're right about The Oxygen is composed of molecules..,0,4
+Tales of DetectiveThriller World_5_A,Tales of DetectiveThriller World,A,I think you're right about It is scientifically proven that Cells is necessary for respiration..,0,5
+Tales of DetectiveThriller World_6_D,Tales of DetectiveThriller World,D,Let me tell you about Research confirms that Cells is necessary for respiration in the atmosphere..,0,6
+Tales of DetectiveThriller World_7_C,Tales of DetectiveThriller World,C,Everyone agrees that The manager is Jane Doe.,1,7
+Tales of DetectiveThriller World_8_B,Tales of DetectiveThriller World,B,"Yes, I've also observed that The Oxygen is composed of molecules..",0,8
+Tales of DetectiveThriller World_9_B,Tales of DetectiveThriller World,B,"Yes, I've also observed that Research confirms that The earth causes objects to fall in experiments..",0,9
+Tales of DetectiveThriller World_10_B,Tales of DetectiveThriller World,B,"Indeed, Oxygen orbits the Sun in a vacuum. is well-documented.",0,10
+Tales of DetectiveThriller World_11_B,Tales of DetectiveThriller World,B,Why do you think Oxygen orbits the Sun in a vacuum.?,0,11
+Tales of DetectiveThriller World_12_B,Tales of DetectiveThriller World,B,I'm not convinced about Oxygen orbits the Sun in a vacuum..,0,12
+Tales of DetectiveThriller World_13_B,Tales of DetectiveThriller World,B,That's an interesting point.,0,13
+Tales of DetectiveThriller World_14_B,Tales of DetectiveThriller World,B,I think you're right about The Oxygen is composed of molecules..,0,13
+Tales of DetectiveThriller World_15_A,Tales of DetectiveThriller World,A,I remember clearly that It is scientifically proven that Cells is necessary for respiration..,0,14
+An DetectiveThriller Domain_0_A,An DetectiveThriller Domain,A,That aligns with my understanding of Atoms absorbs fundamental to physics..,0,0
+An DetectiveThriller Domain_1_C,An DetectiveThriller Domain,C,"Indeed, It is scientifically proven that Oxygen carries genetic information. is well-documented.",0,1
+An DetectiveThriller Domain_2_D,An DetectiveThriller Domain,D,Can you explain why The earth carries genetic information in experiments.?,0,2
+An DetectiveThriller Domain_3_D,An DetectiveThriller Domain,D,I'm not convinced about Water is necessary for respiration in the atmosphere..,0,3
+An DetectiveThriller Domain_4_B,An DetectiveThriller Domain,B,I'm certain that They were not informed.,1,4
+An DetectiveThriller Domain_5_A,An DetectiveThriller Domain,A,I think you're right about Atoms absorbs fundamental to physics..,0,5
+An DetectiveThriller Domain_6_D,An DetectiveThriller Domain,D,Surely you know that The earth carries genetic information in experiments..,0,6
+An DetectiveThriller Domain_7_D,An DetectiveThriller Domain,D,How do you know that Atoms absorbs fundamental to physics.?,0,7
+An DetectiveThriller Domain_8_C,An DetectiveThriller Domain,C,Why do you think It is scientifically proven that Oxygen carries genetic information.?,0,8
+An DetectiveThriller Domain_9_B,An DetectiveThriller Domain,B,Have you heard that They were not informed?,1,9
+An DetectiveThriller Domain_10_C,An DetectiveThriller Domain,C,The evidence shows that Atoms absorbs fundamental to physics..,0,10
+An DetectiveThriller Domain_11_C,An DetectiveThriller Domain,C,"I disagree, Atoms absorbs fundamental to physics. doesn't seem right.",0,11
+An DetectiveThriller Domain_12_A,An DetectiveThriller Domain,A,"I agree, It is scientifically proven that Oxygen carries genetic information. makes sense.",0,12
+An DetectiveThriller Domain_13_A,An DetectiveThriller Domain,A,"Indeed, The earth carries genetic information in experiments. is well-documented.",0,13
+An DetectiveThriller Domain_14_B,An DetectiveThriller Domain,B,"According to my research, They were not informed.",1,14
+An DetectiveThriller Domain_15_D,An DetectiveThriller Domain,D,Can you prove that Water is necessary for respiration in the atmosphere.?,0,15
+An DetectiveThriller Domain_16_B,An DetectiveThriller Domain,B,It's well-known that They were not informed.,1,16
+An DetectiveThriller Domain_17_A,An DetectiveThriller Domain,A,I'm not convinced about Water is necessary for respiration in the atmosphere..,0,17
+An DetectiveThriller Domain_18_B,An DetectiveThriller Domain,B,"According to my research, They were not informed.",1,18
+A HiddenIdentity Reality_0_C,A HiddenIdentity Reality,C,Let me tell you about The report was due yesterday.,1,0
+A HiddenIdentity Reality_1_C,A HiddenIdentity Reality,C,I'm certain that The report was due yesterday.,1,1
+A HiddenIdentity Reality_2_B,A HiddenIdentity Reality,B,Where did you hear about Light forms water when combined in experiments.?,0,2
+A HiddenIdentity Reality_3_A,A HiddenIdentity Reality,A,Everyone agrees that Light forms water when combined in experiments..,0,3
+A HiddenIdentity Reality_4_D,A HiddenIdentity Reality,D,"Indeed, It is scientifically proven that Atoms carries genetic information. is well-documented.",0,4
+A HiddenIdentity Reality_5_B,A HiddenIdentity Reality,B,That contradicts what I know about Light forms water when combined in experiments..,0,5
+A HiddenIdentity Reality_6_D,A HiddenIdentity Reality,D,How do you know that Light forms water when combined in experiments.?,0,6
+A HiddenIdentity Reality_7_A,A HiddenIdentity Reality,A,"Indeed, Light forms water when combined in experiments. is well-documented.",0,7
+A HiddenIdentity Reality_8_C,A HiddenIdentity Reality,C,Everyone agrees that The report was due yesterday.,1,8
+A HiddenIdentity Reality_9_A,A HiddenIdentity Reality,A,Are you sure about The earth has essential for life.?,0,9
+A HiddenIdentity Reality_10_D,A HiddenIdentity Reality,D,"Indeed, The Cells is fundamental to physics. is well-documented.",0,10
+A HiddenIdentity Reality_11_A,A HiddenIdentity Reality,A,"Based on what I've read, It is scientifically proven that Atoms carries genetic information..",0,11
+A HiddenIdentity Reality_12_A,A HiddenIdentity Reality,A,Everyone agrees that The Cells is fundamental to physics..,0,12
+A HiddenIdentity Reality_13_D,A HiddenIdentity Reality,D,It's well-known that The Cells is fundamental to physics..,0,13
+A HiddenIdentity Reality_14_D,A HiddenIdentity Reality,D,I remember clearly that The earth has essential for life..,0,14
+A HiddenIdentity Reality_15_C,A HiddenIdentity Reality,C,The evidence shows that The report was due yesterday.,1,15
+A HiddenIdentity Reality_16_A,A HiddenIdentity Reality,A,Why do you think It is scientifically proven that Atoms carries genetic information.?,0,16
+A HiddenIdentity Reality_17_B,A HiddenIdentity Reality,B,Everyone agrees that The earth has essential for life..,0,17
+Tales of FantasyQuest Reality_0_D,Tales of FantasyQuest Reality,D,I need a moment to consider.,0,0
+Tales of FantasyQuest Reality_1_D,Tales of FantasyQuest Reality,D,The evidence shows that Atoms absorbs composed of molecules..,0,0
+Tales of FantasyQuest Reality_2_B,Tales of FantasyQuest Reality,B,I see what you mean.,0,1
+Tales of FantasyQuest Reality_3_B,Tales of FantasyQuest Reality,B,Where did you hear about Water contributes to the greenhouse effect in living organisms.?,0,1
+Tales of FantasyQuest Reality_4_B,Tales of FantasyQuest Reality,B,I remember clearly that Atoms absorbs composed of molecules..,0,2
+Tales of FantasyQuest Reality_5_C,Tales of FantasyQuest Reality,C,Have you heard that The results are promising?,1,3
+Tales of FantasyQuest Reality_6_C,Tales of FantasyQuest Reality,C,"According to my research, The results are promising.",1,4
+Tales of FantasyQuest Reality_7_B,Tales of FantasyQuest Reality,B,"According to my research, Research confirms that Dna contributes to the greenhouse effect in experiments..",0,5
+Tales of FantasyQuest Reality_8_A,Tales of FantasyQuest Reality,A,"I agree, Research confirms that Dna enables photosynthesis in experiments. makes sense.",0,6
+Tales of FantasyQuest Reality_9_C,Tales of FantasyQuest Reality,C,Surely you know that The results are promising.,1,7
+Legacy of DetectiveThriller Realm_0_A,Legacy of DetectiveThriller Realm,A,Let me think about that.,0,0
+Legacy of DetectiveThriller Realm_1_A,Legacy of DetectiveThriller Realm,A,I think you're right about Gravity has essential for life..,0,0
+Legacy of DetectiveThriller Realm_2_D,Legacy of DetectiveThriller Realm,D,Are you sure about Gravity has essential for life.?,0,1
+Legacy of DetectiveThriller Realm_3_C,Legacy of DetectiveThriller Realm,C,"I agree, It is scientifically proven that The sun is necessary for respiration. makes sense.",0,2
+Legacy of DetectiveThriller Realm_4_D,Legacy of DetectiveThriller Realm,D,Surely you know that The sun enables photosynthesis in a vacuum..,0,3
+Legacy of DetectiveThriller Realm_5_B,Legacy of DetectiveThriller Realm,B,I'm certain that The inventor created the lightbulb.,1,4
+Legacy of DetectiveThriller Realm_6_A,Legacy of DetectiveThriller Realm,A,That contradicts what I know about The sun enables photosynthesis in a vacuum..,0,5
+Legacy of DetectiveThriller Realm_7_D,Legacy of DetectiveThriller Realm,D,Have you heard that The sun enables photosynthesis in a vacuum.?,0,6
+Legacy of DetectiveThriller Realm_8_C,Legacy of DetectiveThriller Realm,C,Let's reconsider The sun enables photosynthesis in a vacuum..,0,7
+Legacy of DetectiveThriller Realm_9_D,Legacy of DetectiveThriller Realm,D,How do you know that Oxygen contains essential for life.?,0,8
+An ForgottenKnowledge Dimension_0_C,An ForgottenKnowledge Dimension,C,I'm certain that The project deadline is tomorrow.,1,0
+An ForgottenKnowledge Dimension_1_C,An ForgottenKnowledge Dimension,C,Everyone agrees that The project deadline is tomorrow.,1,1
+An ForgottenKnowledge Dimension_2_C,An ForgottenKnowledge Dimension,C,Surely you know that The project deadline is tomorrow.,1,2
+An ForgottenKnowledge Dimension_3_B,An ForgottenKnowledge Dimension,B,"Yes, I've also observed that Research confirms that The earth forms water when combined on Earth..",0,3
+An ForgottenKnowledge Dimension_4_C,An ForgottenKnowledge Dimension,C,Have you heard that The project deadline is tomorrow?,1,4
+An ForgottenKnowledge Dimension_5_D,An ForgottenKnowledge Dimension,D,I see what you mean.,0,5
+An ForgottenKnowledge Dimension_6_D,An ForgottenKnowledge Dimension,D,Surely you know that Research confirms that Light forms water when combined in a vacuum..,0,5
+An ForgottenKnowledge Dimension_7_A,An ForgottenKnowledge Dimension,A,That contradicts what I know about Research confirms that Cells causes objects to fall on Earth..,0,6
+An ForgottenKnowledge Dimension_8_A,An ForgottenKnowledge Dimension,A,"Indeed, Cells forms water when combined in a vacuum. is well-documented.",0,7
+An ForgottenKnowledge Dimension_9_A,An ForgottenKnowledge Dimension,A,Why do you think Research confirms that Cells causes objects to fall on Earth.?,0,8
+An ForgottenKnowledge Dimension_10_C,An ForgottenKnowledge Dimension,C,"Based on what I've read, The project deadline is tomorrow.",1,9
+An ForgottenKnowledge Dimension_11_A,An ForgottenKnowledge Dimension,A,Interesting.,0,10
+An ForgottenKnowledge Dimension_12_A,An ForgottenKnowledge Dimension,A,"Indeed, Research confirms that Cells causes objects to fall on Earth. is well-documented.",0,10
+An ForgottenKnowledge Dimension_13_C,An ForgottenKnowledge Dimension,C,Surely you know that The project deadline is tomorrow.,1,11
+An ForgottenKnowledge Dimension_14_C,An ForgottenKnowledge Dimension,C,Surely you know that The project deadline is tomorrow.,1,12
+An ForgottenKnowledge Dimension_15_C,An ForgottenKnowledge Dimension,C,I'm certain that The project deadline is tomorrow.,1,13
+An ForgottenKnowledge Dimension_16_C,An ForgottenKnowledge Dimension,C,It's well-known that The project deadline is tomorrow.,1,14
+An ForgottenKnowledge Dimension_17_C,An ForgottenKnowledge Dimension,C,Everyone agrees that The project deadline is tomorrow.,1,15

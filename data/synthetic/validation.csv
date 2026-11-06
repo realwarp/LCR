@@ -1,0 +1,4 @@
+conversation_id,character,text,message_index,scenario_family_id
+scenario_0,A,Hello,0,unknown
+scenario_1,B,Hi,0,unknown
+scenario_2,C,Test,0,unknown

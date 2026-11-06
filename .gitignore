@@ -1,21 +1,40 @@
-# Virtual environment
+# Virtual environments
 .venv/
+venv/
+env/
 
-# Data directories
+# Private competition data
 data/raw/
 data/processed/
 
-# Model artifacts
-models/
+# Trained model binaries
+models/*.pkl
+models/*.joblib
+models/*.pt
+models/*.pth
+models/*.onnx
 
-# Submissions directory
+# Submissions
 submissions/
 
 # Python cache
 __pycache__/
-
-# Pytest cache
 .pytest_cache/
+*.pyc
+.coverage
+htmlcov/
 
-# Secrets and sensitive files
+# Secrets
+.env
+.env.*
+!.env.example
 secrets/
+*.pem
+*.key
+
+# Local development configuration
+.kiro/
+
+# OS files
+.DS_Store
+Thumbs.db
